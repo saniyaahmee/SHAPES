@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Area_of_shapes</string>
+    <string name="area_of_rectangular">area of rectangular</string>
+    <string name="area_of_square">area of square</string>
+    <string name="area_of_circle">area of circle</string>
+    <string name="area_of_triangle">area of triangle</string>
+    <string name="count">count</string>
+    <string name="clear">clear</string>
+    <string name="todo">TODO</string>
+    <string name="count1">count</string>
+    <string name="clear1">clear</string>
+    <string name="todo1">TODO</string>
+    <string name="count2">count</string>
+    <string name="clear2">clear</string>
+    <string name="todo2">TODO</string>
+    <string name="count3">count</string>
+    <string name="clear3">clear</string>
+    <string name="todo3">TODO</string>
+</resources>
